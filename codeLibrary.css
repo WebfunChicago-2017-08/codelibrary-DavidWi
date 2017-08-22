@@ -1,0 +1,155 @@
+#click{
+    background-color: red;
+    height: 90px;
+    margin-top: -15px;
+}
+#click p{
+    font-size: 20px;
+    color: white; 
+}
+#hide{
+    background-color: #5E73B4;
+    height: 90px;
+    margin-top: -15px;
+}
+#hide p{
+    font-size: 20px;
+    color: white; 
+}
+#show{
+    background-color: #381326;
+    height: 90px;
+    margin-top: 5px;
+}
+#show p{
+    font-size: 20px;
+    color: white; 
+}
+#toggle{
+    background-color: #B5823B;
+    height: 90px;
+    margin-top: -15px;
+}
+#toggle p{
+    font-size: 20px;
+    color: white; 
+}
+#slide{
+    background-color: #1A2C74;
+    height: 90px;
+    margin-top: 5px;
+}
+#slide p{
+    font-size: 20px;
+    color: white; 
+}
+#slideToggle{
+    background-color: #360924;
+    height: 90px;
+    margin-top: -15px;
+}
+#slideToggle p{
+    font-size: 20px;
+    color: white; 
+}
+#fading{
+    background-color: #347F3F;
+    height: 90px;
+    margin-top: -15px;
+}
+#fading p{
+    font-size: 20px;
+    color: white; 
+}
+#addClass{
+    background-color: #1C094A;
+    height: 90px;
+    margin-top: -15px;
+}
+#addClass p{
+    font-size: 20px;
+    color: white; 
+}
+.nc{
+    border: 5px solid orangered;
+}
+#before{
+    background-color: #D18688;
+    height: 90px;
+    margin-top: 5px;
+}
+#before p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#after{
+    background-color: #A90F13;
+    height: 90px;
+    margin-top: 5px;
+}
+#after p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#append{
+    background-color: #614EEB;
+    height: 90px;
+    margin-top: 5px;
+}
+#append p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#html{
+    background-color: #022B2B;
+    height: 90px;
+    margin-top: 5px;
+}
+#html p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#attr{
+    background-color: #5E0AED;
+    height: 90px;
+    margin-top: 5px;
+}
+#attr p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#val{
+    background-color: #E90470;
+    height: 90px;
+    margin-top: 5px;
+}
+#val p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#text{
+    background-color: #424332;
+    height: 90px;
+    margin-top: 5px;
+}
+#text p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
+#data{
+    background-color: #E7F50A;
+    height: 90px;
+    margin-top: 5px;
+}
+#data p{
+    display: inline-block;
+    font-size: 20px;
+    color: white; 
+}
